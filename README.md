@@ -31,7 +31,7 @@ El desarrollo se centra en la fluidez visual y el rendimiento técnico, utilizan
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/obsidian-tower-landing.git](https://github.com/tu-usuario/obsidian-tower-landing.git)
+   git clone https://github.com/ElTapiaGit/obsidian-tower-landing.git
 
 2. **Instalar dependencias:**
     ```bash
