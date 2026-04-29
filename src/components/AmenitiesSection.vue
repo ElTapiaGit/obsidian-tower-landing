@@ -111,7 +111,7 @@ const amenities = [
     title: 'Piscina\nInfinita',
     description: 'Suspendida en el piso 48, nuestra piscina infinity edge ofrece la sensación de flotar sobre la ciudad. Agua climatizada durante todo el año.',
     features: ['Piso 48', 'Infinity Edge', 'Climatizada', 'Bar Acuático'],
-    bgImage: '/assets/amenities/pool.jpeg',
+    bgImage: '/assets/amenities/pool.webp',
   },
   {
     id: 'lounge',

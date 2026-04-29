@@ -74,7 +74,7 @@ const ctaRef = ref(null);
 const scrollIndicatorRef = ref(null);
 
 // ─── Config ───
-const FRAME_COUNT = 80;
+const FRAME_COUNT = 77;
 const sectionHeight = computed(() => window.innerHeight * 5); // 500vh of scroll space
 
 // ─── State ───
@@ -85,7 +85,7 @@ let canvasWidth = 0;
 let canvasHeight = 0;
 
 /** ruta estatica para cada fotograma individual basandose en su indice **/
-const framePath = (index) => `/assets/frames/${index}.jpg`;
+const framePath = (index) => `/assets/frames/${index}.webp`;
 
 /** 
  * Carga de forma asíncrona todos los fotogramas en memoria 
